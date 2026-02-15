@@ -1,0 +1,20 @@
+{
+  "name": "control-dmx-engine",
+  "version": "1.0.0",
+  "description": "Multi-universe DMX512 effects engine with customisable presets.",
+  "homepage": "https://github.com/samuelwilliamjordan/control-dmx-engine#readme",
+  "bugs": {
+    "url": "https://github.com/samuelwilliamjordan/control-dmx-engine/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelwilliamjordan/control-dmx-engine.git"
+  },
+  "license": "ISC",
+  "author": "Samuel Jordan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/test.js"
+  }
+}
